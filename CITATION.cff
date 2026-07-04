@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use or refer to this repository, please cite it as below."
+title: "GeoReason: Vision-Language Reasoning for Earth Observation and Risk-Aware AI"
+authors:
+  - family-names: "Elik"
+    given-names: "Fatma"
+year: 2026
+license: MIT
+repository-code: "https://github.com/FatmaElik/GeoReason"
